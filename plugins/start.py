@@ -45,7 +45,7 @@ async def short_url(client: Client, message: Message, base64_string):
                 InlineKeyboardButton(text="ᴛᴜᴛᴏʀɪᴀʟ •", url=TUT_VID)
             ],
             [
-                InlineKeyboardButton(text="• ᴘʀᴇᴍɪᴜᴍ ʙᴜʏ •", callback_data="premium")
+                InlineKeyboardButton(text="• ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ •", callback_data="premium")
             ]
         ]
 
@@ -202,7 +202,7 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [
-                    [InlineKeyboardButton("• ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs •", url="https://t.me/CREWFLIX/5")],
+                    [InlineKeyboardButton("• ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs •", url="https://t.me/Cultured_Aodox")],
 
     [
                     InlineKeyboardButton("• ᴀʙᴏᴜᴛ", callback_data = "about"),
