@@ -40,9 +40,9 @@ START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/a50289c5498b927
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/eb60dc67795c52efd5f1b-4600a893c5dc69792e.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "droplink.co")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "d4f7a749e3f9f7bddbba40310992df686bb22d4d")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/How_To_Download_OTx")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "nowshort.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "e3b32859bdb46cc11255422458f8e433d8176911")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_open_nowshort")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://i.ibb.co/c5GRpjv/x.jpg")
 #--------------------------------------------
@@ -91,8 +91,8 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 #==========================(BUY PREMIUM)====================#
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "DIABLO VOLFIR")
-UPI_ID = os.environ.get("UPI_ID", "otxstudioofficial@okaxis")
-QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/a872a403f0f8d93416a3e-a15dd4d899ee669ef0.jpg")
+UPI_ID = os.environ.get("UPI_ID", "")
+QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/660d3f50580f40808c6d1-79ef30f54923f5c762.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/diablovolfir0")
 #--------------------------------------------
 #Time and its price
