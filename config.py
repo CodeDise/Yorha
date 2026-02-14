@@ -91,7 +91,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 #==========================(BUY PREMIUM)====================#
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "DIABLO VOLFIR")
-UPI_ID = os.environ.get("UPI_ID", "")
+UPI_ID = os.environ.get("UPI_ID", "diablovolfir@ptyes")
 QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/660d3f50580f40808c6d1-79ef30f54923f5c762.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/diablovolfir0")
 #--------------------------------------------
